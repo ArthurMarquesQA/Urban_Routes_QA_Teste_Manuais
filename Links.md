@@ -1,7 +1,7 @@
-### Sprint 1 - Checklist e Regressão
+### Sprint 1 - Checklist e Teste de Regressão
 - [Checklist Completo](https://docs.google.com/spreadsheets/d/1qDypjGA0ao5RZ8AwWzlCOtjMInS7KI7Z/edit?usp=sharing&ouid=104319913162219492133&rtpof=true&sd=true)
 
-### Sprint 2 - Carteira de Motorista  
+### Sprint 2 - Teste de limites visando os requisitos para criar uma Carteira de Motorista  
 - [Checklist Completo](https://docs.google.com/spreadsheets/d/1Cw4UvzpvxnMNj_d-AolqZhpVB78_kaO2/edit?usp=sharing&ouid=104319913162219492133&rtpof=true&sd=true)
 
 ### Sprint 3 - Testar funcionalidade de compartilhamento de carros visando ambientes diferentes (Chrome e Firefox) e reportar os erros/bugs no Jira
